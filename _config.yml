@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pan Du/Personal Homepage "
+title                    : "Homepage "
 title_separator          : "-"
 name                     : &name "Pan Du"
 description              : &description "Ph.D. candidate in the School of Information at Renmin University of China."
