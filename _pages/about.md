@@ -15,4 +15,18 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="education">Education</h2>
 
-Pan Du
+- **Ph.D. in Big Data Science and Engineering**, Renmin University of China  
+  *Sep. 2022 – Present*  
+  Supervisor: Prof. Hong Chen
+
+- **Visiting Student**, National University of Singapore  
+  *Sep. 2024 – Present*  
+  Supervisor: Prof. Yang You
+
+- **M.Sc. in Computer Application Technology**, Renmin University of China  
+  *Sep. 2019 – Jun. 2022*  
+  Supervisor: Prof. Suyun Zhao
+
+- **B.Sc. in Information and Computational Science**, Hebei University  
+  *Sep. 2015 – Jun. 2019*
+
