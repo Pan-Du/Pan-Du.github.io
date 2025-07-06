@@ -21,6 +21,9 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="publications">Publications</h2>
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 <p>
   <span class="pub-badge">
