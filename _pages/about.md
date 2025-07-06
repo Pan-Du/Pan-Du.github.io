@@ -40,6 +40,102 @@ I welcome collaboration opportunities. If you are interested in joint research o
   </span><br>
 </p>
 
+<p>
+  <span class="pub-badge">
+    <span class="badge-conference">TPAMI</span>
+    <span class="badge-year">2025</span>
+  </span>
+  <strong>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10904322" target="_blank" style="color:inherit;">
+      Towards a Theoretical Understanding of Semi-Supervised Learning Under Class Distribution Mismatch
+    </a>
+  </strong><br>
+  <span style="color:#555;">
+    <strong>Pan Du</strong>, Suyun Zhao, Puhui Tan, Zisen Sheng, Zeyu Gan, Hong Chen, Cuiping Li
+  </span><br>
+</p>
+
+
+<p>
+  <span class="pub-badge">
+    <span class="badge-conference">AAAI</span>
+    <span class="badge-year">2025</span>
+  </span>
+  <strong>
+    <a href="https://scholar.google.com/scholar?oi=bibs&cluster=4459095609652082559&btnI=1&hl=en" target="_blank" style="color:inherit;">
+      Personalized clustering via targeted representation learning
+    </a>
+  </strong><br>
+  <span style="color:#555;">
+    Xiwen Geng, Suyun Zhao, Yixin Yu, Borui Peng, <strong>Pan Du</strong>, Hong Chen, Cuiping Li, Mengdie Wang
+  </span><br>
+</p>
+
+<p>
+  <span class="pub-badge">
+    <span class="badge-conference">AAAI</span>
+    <span class="badge-year">2025</span>
+  </span>
+  <strong>
+    <a href="https://scholar.google.com/scholar?oi=bibs&cluster=5429120384884076280&btnI=1&hl=en" target="_blank" style="color:inherit;">
+      Semi-supervised learning via weight-aware distillation under class distribution mismatch
+    </a>
+  </strong><br>
+  <span style="color:#555;">
+    <strong>Pan Du</strong>, Suyun Zhao, Zisen Sheng, Cuiping Li, Hong Chen
+  </span><br>
+</p>
+
+<p>
+  <span class="pub-badge">
+    <span class="badge-conference">TPAMI</span>
+    <span class="badge-year">2023</span>
+  </span>
+  <strong>
+    <a href="https://scholar.google.com/scholar?oi=bibs&cluster=1205663081670476871&btnI=1&hl=en" target="_blank" style="color:inherit;">
+      Contrastive active learning under class distribution mismatch
+    </a>
+  </strong><br>
+  <span style="color:#555;">
+    <strong>Pan Du</strong>, Hui Chen, Suyun Zhao, Shuwen Chai, Hong Chen, Cuiping Li
+  </span><br>
+</p>
+
+<p>
+  <span class="pub-badge">
+    <span class="badge-conference">Preprint</span>
+    <span class="badge-year">2022</span>
+  </span>
+  <strong>
+    <a href="https://scholar.google.com/scholar?oi=bibs&cluster=18331915255211482416&btnI=1&hl=en" target="_blank" style="color:inherit;">
+      FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging
+    </a>
+  </strong><br>
+  <span style="color:#555;">
+    Yujin Han, <strong>Pan Du</strong>, Kai Yang
+  </span><br>
+</p>
+
+<p>
+  <span class="pub-badge">
+    <span class="badge-conference">ICCV</span>
+    <span class="badge-year">2021</span>
+  </span>
+  <strong>
+    <a href="https://scholar.google.com/scholar?oi=bibs&cluster=16967265628178332520&btnI=1&hl=en" target="_blank" style="color:inherit;">
+      Contrastive coding for active learning under class distribution mismatch
+    </a>
+  </strong><br>
+  <span style="color:#555;">
+    <strong>Pan Du</strong>, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li
+  </span><br>
+</p>
+
+
+
+
+
+
 
 <p>
   <span class="pub-badge">
@@ -55,8 +151,6 @@ I welcome collaboration opportunities. If you are interested in joint research o
     <strong>Pan Du</strong>, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li
   </span><br>
 </p>
-
-
 
 
 
