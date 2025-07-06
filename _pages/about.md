@@ -13,3 +13,4 @@ My research focuses on unsupervised learning, weakly supervised learning, and op
 
 I welcome collaboration opportunities. If you are interested in joint research on open-set learning or other emerging topics, please feel free to reach out to me at [Email](du_pan@163.com).
 
+<h2 id="educations">Educations</h2>
