@@ -19,7 +19,7 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 - *2022.09 – Present*, **Ph.D.**, Renmin University of China, China. 
 
-- *2024.09 – Present*, **Visiting Student**, School of Computing, National University of Singapore, Singapore.
+- *2024.09 – Present*, **Visiting Student**, National University of Singapore, Singapore.
 
 - *2019.09 – 2022.06*, **M.Sc.**, Renmin University of China, China.
 
