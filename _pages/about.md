@@ -15,6 +15,21 @@ My research focuses on unsupervised learning, weakly supervised learning, and op
 
 I welcome collaboration opportunities. If you are interested in joint research on open-set learning or other emerging topics, please feel free to reach out to me at [Email](mailto:du_pan@163.com).
 
+
+<h2 id="publications">Publications</h2>
+<p>
+<span class="pub-badge icml">ICLR</span>
+<strong>Contrastive Coding for Active Learning Under Class Distribution Mismatch</strong><br>
+<span style="color:#555;">Pan Du, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li</span><br>
+<em>2021 ICCV</em>
+</p>
+
+
+
+
+
+
+
 <h2 id="education">Education</h2>
 
 - *2022.09 – Present*, **Ph.D.**, Renmin University of China, China. 
