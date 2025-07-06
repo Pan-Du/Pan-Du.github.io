@@ -27,6 +27,22 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <p>
   <span class="pub-badge">
+    <span class="badge-conference">ICML</span>
+    <span class="badge-year">2025</span>
+  </span>
+  <strong>
+    <a href="https://arxiv.org/abs/2505.06948" target="_blank" style="color:inherit;">
+      Unsupervised Learning for Class Distribution Mismatch
+    </a>
+  </strong><br>
+  <span style="color:#555;">
+    <strong>Pan Du</strong>, Wangbo Zhao, Xinai Lu, Nian Liu, Zhikai Li, Chaoyu Gong, Suyun Zhao, Hong Chen, Cuiping Li, Kai Wang, Yang You
+  </span><br>
+</p>
+
+
+<p>
+  <span class="pub-badge">
     <span class="badge-conference">ICCV</span>
     <span class="badge-year">2021</span>
   </span>
