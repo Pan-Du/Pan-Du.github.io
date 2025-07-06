@@ -134,26 +134,6 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 
 
-
-
-
-<p>
-  <span class="pub-badge">
-    <span class="badge-conference">ICCV</span>
-    <span class="badge-year">2021</span>
-  </span>
-  <strong>
-    <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Du_Contrastive_Coding_for_Active_Learning_Under_Class_Distribution_Mismatch_ICCV_2021_paper.html" target="_blank" style="color:inherit;">
-      Contrastive Coding for Active Learning Under Class Distribution Mismatch
-    </a>
-  </strong><br>
-  <span style="color:#555;">
-    <strong>Pan Du</strong>, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li
-  </span><br>
-</p>
-
-
-
 <h2 id="education">Education</h2>
 
 - *2022.09 – Present*, **Ph.D.**, Renmin University of China, China. 
