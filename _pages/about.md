@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h2 id="about me">About me</h2>
 
 I am a third-year Ph.D. student at the [School of Information, Renmin University of China](http://info.ruc.edu.cn/), under the supervision of [Prof. Hong Chen](https://scholar.google.com/citations?user=FJVLD1oAAAAJ&hl=en). I am currently conducting research as a visiting student at the School of Computing, National University of Singapore, advised by [Prof. Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=en). I earned my master’s degree from Renmin University of China in 2022 and my bachelor’s degree from Hebei University. During my master’s studies, I was supervised by [Prof. Suyun Zhao](https://scholar.google.com/citations?hl=en&user=Nbvw280AAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -15,11 +17,11 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="education">Education</h2>
 
-- *2022.09 – Present*, **Ph.D. in Big Data Science and Engineering**, Renmin University of China, Beijing, China. Supervisor: Prof. Hong Chen
+- *2022.09 – Present*, **Ph.D. in Big Data Science and Engineering**, Renmin University of China, Beijing, China. 
 
-- *2024.09 – Present*, **Visiting Student**, School of Computing, National University of Singapore, Singapore. Supervisor: Prof. Yang You
+- *2024.09 – Present*, **Visiting Student**, School of Computing, National University of Singapore, Singapore.
 
-- *2019.09 – 2022.06*, **M.Sc. in Computer Application Technology**, Renmin University of China, Beijing, China. Supervisor: Prof. Suyun Zhao
+- *2019.09 – 2022.06*, **M.Sc. in Computer Application Technology**, Renmin University of China, Beijing, China.
 
 - *2015.09 – 2019.06*, **B.Sc. in Information and Computational Science**, Hebei University, Baoding, China.
 
