@@ -11,8 +11,8 @@ I am a third-year Ph.D. student at the [School of Information, Renmin University
 
 My research focuses on unsupervised learning, weakly supervised learning, and open-set learning. To date, I have published two papers in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and three papers in leading international AI conferences.
 
-I welcome collaboration opportunities. If you are interested in joint research on open-set learning or other emerging topics, please feel free to reach out to me at [Email](du_pan@163.com).
+I welcome collaboration opportunities. If you are interested in joint research on open-set learning or other emerging topics, please feel free to reach out to me at [Email](mailto:du_pan@163.com).
 
-<h2 id="educations">Educations</h2>
+<h2 id="education">Education</h2>
 
 Pan Du
