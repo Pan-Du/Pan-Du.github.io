@@ -17,14 +17,13 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 
 <h2 id="publications">Publications</h2>
+
 <p>
 <span class="pub-badge icml">ICML</span>
 <strong>Contrastive Coding for Active Learning Under Class Distribution Mismatch</strong><br>
 <span style="color:#555;">Pan Du, Suyun Zhao, Hui Chen, Shuwen Chai, Hong Chen, Cuiping Li</span><br>
 <em>2021 ICCV</em>
 </p>
-
-
 
 
 
