@@ -15,18 +15,12 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="education">Education</h2>
 
-- **Ph.D. in Big Data Science and Engineering**, Renmin University of China  
-  *Sep. 2022 – Present*  
-  Supervisor: Prof. Hong Chen
+- *2022.09 – Present*, **Ph.D. in Big Data Science and Engineering**, Renmin University of China, Beijing, China. Supervisor: Prof. Hong Chen
 
-- **Visiting Student**, National University of Singapore  
-  *Sep. 2024 – Present*  
-  Supervisor: Prof. Yang You
+- *2024.09 – Present*, **Visiting Student**, School of Computing, National University of Singapore, Singapore. Supervisor: Prof. Yang You
 
-- **M.Sc. in Computer Application Technology**, Renmin University of China  
-  *Sep. 2019 – Jun. 2022*  
-  Supervisor: Prof. Suyun Zhao
+- *2019.09 – 2022.06*, **M.Sc. in Computer Application Technology**, Renmin University of China, Beijing, China. Supervisor: Prof. Suyun Zhao
 
-- **B.Sc. in Information and Computational Science**, Hebei University  
-  *Sep. 2015 – Jun. 2019*
+- *2015.09 – 2019.06*, **B.Sc. in Information and Computational Science**, Hebei University, Baoding, China.
+
 
