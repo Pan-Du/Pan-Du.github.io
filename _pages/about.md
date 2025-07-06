@@ -131,6 +131,10 @@ I welcome collaboration opportunities. If you are interested in joint research o
   </span><br>
 </p>
 
+<h2 id="honors">Honors and Awards</h2>
+
+
+<h2 id="services">Services</h2>
 
 
 
