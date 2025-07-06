@@ -73,8 +73,8 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <p>
   <span class="pub-badge">
-    <span class="badge-conference">AAAI</span>
-    <span class="badge-year">2025</span>
+    <span class="badge-conference">ICCV</span>
+    <span class="badge-year">2023</span>
   </span>
   <strong>
     <a href="https://scholar.google.com/scholar?oi=bibs&cluster=5429120384884076280&btnI=1&hl=en" target="_blank" style="color:inherit;">
