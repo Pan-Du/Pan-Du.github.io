@@ -9,7 +9,7 @@
 
 main:
   - title: "About me"
-    url: /
+    url: /#about me
 
   - title: "News"
     url: /news/
