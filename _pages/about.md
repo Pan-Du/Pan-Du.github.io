@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<h2 id="about me">About Me</h2>
+<h2 id="about me">👧 About Me</h2>
 
 I am a third-year Ph.D. student at the [School of Information, Renmin University of China](http://info.ruc.edu.cn/), under the supervision of [Prof. Hong Chen](https://scholar.google.com/citations?user=FJVLD1oAAAAJ&hl=en). I am currently conducting research as a visiting student at the School of Computing, National University of Singapore, advised by [Prof. Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=en). I earned my master’s degree from Renmin University of China in 2022 and my bachelor’s degree from Hebei University. During my master’s studies, I was supervised by [Prof. Suyun Zhao](https://scholar.google.com/citations?hl=en&user=Nbvw280AAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -140,14 +140,14 @@ I welcome collaboration opportunities. If you are interested in joint research o
 * **Outstanding Undergraduate Thesis Award**, Hebei University, *2019*
 
 
-<h2 id="services">Services</h2>
+<h2 id="services">💻 Services</h2>
 
 - **Reviewer**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, **2025**
 - **Reviewer**, *ICLR Workshop on Artificial Intelligence for Computational Health (AI4CHL)*, **2024**
 
 
 
-<h2 id="education">Education</h2>
+<h2 id="education">🎓 Education</h2>
 
 - *2022.09 – Present*, **Ph.D.**, Renmin University of China, China. 
 
