@@ -142,6 +142,11 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="services">Services</h2>
 
+### Reviewer Services
+
+- **Reviewer**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, **2025**
+- **Reviewer**, *ICLR Workshop on Artificial Intelligence for Computational Health (AI4CHL)*, **2024**
+
 
 
 <h2 id="education">Education</h2>
