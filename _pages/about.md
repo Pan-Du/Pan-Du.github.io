@@ -131,7 +131,13 @@ I welcome collaboration opportunities. If you are interested in joint research o
   </span><br>
 </p>
 
-<h2 id="honors">Honors and Awards</h2>
+<h2 id="honors">🏆 Honors and Awards</h2>
+
+* **1st-Class Academic Scholarship**, School of Information, Renmin University of China, *2022 & 2023*
+* **CSC National Scholarship for Study Abroad**, China Scholarship Council, *2024*
+* **Outstanding Talent Development Program**, Renmin University of China, *2024*
+* **Graduate Scientific Research Foundation**, Renmin University of China, *2023*
+* **Outstanding Undergraduate Thesis Award**, Hebei University, *2019*
 
 
 <h2 id="services">Services</h2>
