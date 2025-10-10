@@ -12,7 +12,7 @@ redirect_from:
 
 <h2 id="about me">👧 About Me</h2>
 
-I am a third-year Ph.D. student at the [School of Information, Renmin University of China](http://info.ruc.edu.cn/), under the supervision of [Prof. Hong Chen](https://scholar.google.com/citations?user=FJVLD1oAAAAJ&hl=en). I am currently conducting research as a visiting student at the School of Computing, National University of Singapore, advised by [Prof. Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=en). I earned my master’s degree from Renmin University of China in 2022 and my bachelor’s degree from Hebei University. During my master’s studies, I was supervised by [Prof. Suyun Zhao](https://scholar.google.com/citations?hl=en&user=Nbvw280AAAAJ&view_op=list_works&sortby=pubdate).
+I am a fourth-year Ph.D. student at the [School of Information, Renmin University of China](http://info.ruc.edu.cn/), under the supervision of [Prof. Hong Chen](https://scholar.google.com/citations?user=FJVLD1oAAAAJ&hl=en). I previously conducted research as a visiting student at the School of Computing, National University of Singapore, advised by [Prof. Yang You](https://scholar.google.com/citations?user=jF4dPZwAAAAJ&hl=en). I earned my master’s degree from Renmin University of China in 2022 and my bachelor’s degree from Hebei University. During my master’s studies, I was supervised by [Prof. Suyun Zhao](https://scholar.google.com/citations?hl=en&user=Nbvw280AAAAJ&view_op=list_works&sortby=pubdate).
 
 My research focuses on unsupervised learning, weakly supervised learning, and open-set learning. To date, I have published two papers in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and three papers in leading international AI conferences.
 
@@ -133,6 +133,7 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="honors">🏆 Honors and Awards</h2>
 
+* **National Scholarship**, 2025
 * **1st-Class Academic Scholarship**, School of Information, Renmin University of China, *2022 & 2023*
 * **CSC National Scholarship for Study Abroad**, China Scholarship Council, *2024*
 * **Outstanding Talent Development Program**, Renmin University of China, *2024*
@@ -142,6 +143,7 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="services">💻 Services</h2>
 
+- **Reviewer**, *Association for the Advancement of Artificial Intelligence (AAAI)*, **2026**
 - **Reviewer**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, **2025**
 - **Reviewer**, *ICLR Workshop on Artificial Intelligence for Computational Health (AI4CHL)*, **2024**
 
