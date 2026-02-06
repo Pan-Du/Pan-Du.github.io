@@ -144,6 +144,7 @@ I welcome collaboration opportunities. If you are interested in joint research o
 
 <h2 id="services">💻 Services</h2>
 
+- **Reviewer**, *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, **2026**
 - **Reviewer**, *Association for the Advancement of Artificial Intelligence (AAAI)*, **2026**
 - **Reviewer**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, **2025**
 - **Reviewer**, *ICLR Workshop on Artificial Intelligence for Computational Health (AI4CHL)*, **2024**
