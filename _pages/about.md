@@ -132,9 +132,10 @@ I welcome collaboration opportunities. If you are interested in joint research o
 </p>
 
 <h2 id="honors">🏆 Honors and Awards</h2>
+
 * **CAST Young Talents Program for Doctoral Students**, 2025
 * **National Scholarship**, 2025
-* **1st-Class Academic Scholarship**, School of Information, Renmin University of China, *2022 & 2024*
+* **1st-Class Academic Scholarship**, School of Information, Renmin University of China, *2022 & 2024 & 2025*
 * **CSC National Scholarship for Study Abroad**, China Scholarship Council, *2024*
 * **Outstanding Talent Development Program**, Renmin University of China, *2024*
 * **Graduate Scientific Research Foundation**, Renmin University of China, *2023*
